@@ -1,6 +1,6 @@
 {
-  "name": "node-hello",
-  "version": "1.0.0",
+  "name": "shaharione",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/node-hello.git"
+    "url": "https://github.com/avulaprashanthi04/shaharione"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/node-hello/issues"
+    "url": "https://github.com/avulaprashanthi04/shaharione/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/avulaprashanthi04/shaharione#readme"
 }
